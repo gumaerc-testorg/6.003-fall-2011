@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: '[Fourier Transform (PDF)](resources/mit6_003f11_lec16)'
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 16: Fourier Transform'
 uid: 5fbda7f6-0306-2910-9274-f1988f447d39
 video_files:
   archive_url: http://www.archive.org/download/MIT6.003F11/MIT6_003F11_lec16_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-003-signals-and-systems-fall-2011/989882f5adda58a792f480b0afb7069e_iWZNTM139xQ.vtt
+  video_captions_file: /courses/6-003-signals-and-systems-fall-2011/989882f5adda58a792f480b0afb7069e_iWZNTM139xQ.vtt
   video_thumbnail_file: https://img.youtube.com/vi/iWZNTM139xQ/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-003-signals-and-systems-fall-2011/4880224b3b459c3b3579e19055d58b7d_iWZNTM139xQ.pdf
+  video_transcript_file: /courses/6-003-signals-and-systems-fall-2011/4880224b3b459c3b3579e19055d58b7d_iWZNTM139xQ.pdf
 video_metadata:
   youtube_id: iWZNTM139xQ
 ---

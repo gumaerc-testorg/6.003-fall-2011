@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: '[Relations Among Fourier Representations (PDF)](resources/mit6_003f11_lec19)'
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 19: Relations Among Fourier Representations'
 uid: b337e541-707d-5aef-b6a1-cc3b98184d53
 video_files:
   archive_url: http://www.archive.org/download/MIT6.003F11/MIT6_003F11_lec19_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-003-signals-and-systems-fall-2011/b7fdcf9047cd5eb4aa4cbd5b33bfc785_HDYAbIA-DNY.vtt
+  video_captions_file: /courses/6-003-signals-and-systems-fall-2011/b7fdcf9047cd5eb4aa4cbd5b33bfc785_HDYAbIA-DNY.vtt
   video_thumbnail_file: https://img.youtube.com/vi/HDYAbIA-DNY/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-003-signals-and-systems-fall-2011/d581337403d046f57e857c2057264f7c_HDYAbIA-DNY.pdf
+  video_transcript_file: /courses/6-003-signals-and-systems-fall-2011/d581337403d046f57e857c2057264f7c_HDYAbIA-DNY.pdf
 video_metadata:
   youtube_id: HDYAbIA-DNY
 ---

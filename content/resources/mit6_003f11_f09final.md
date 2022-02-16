@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding fall 2009 final exam.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-003-signals-and-systems-fall-2011/6af64c160948026a525bb02fad92d351_MIT6_003F11_F09final.pdf
+file: /media/courses/6-003-signals-and-systems-fall-2011/6af64c160948026a525bb02fad92d351_MIT6_003F11_F09final.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: 6.003 Final Exam, Fall 2009
 uid: 6af64c16-0948-026a-525b-b02fad92d351

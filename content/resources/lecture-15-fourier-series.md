@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: '[Fourier Series (PDF)](resources/mit6_003f11_lec15)'
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 15: Fourier Series'
 uid: 9e7405e7-4156-76a2-b45c-3ff5e3d987d2
 video_files:
   archive_url: http://www.archive.org/download/MIT6.003F11/MIT6_003F11_lec15_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-003-signals-and-systems-fall-2011/bf083d91dac55192916d86b2a5acfabd_N0CVIoVQkmc.vtt
+  video_captions_file: /courses/6-003-signals-and-systems-fall-2011/bf083d91dac55192916d86b2a5acfabd_N0CVIoVQkmc.vtt
   video_thumbnail_file: https://img.youtube.com/vi/N0CVIoVQkmc/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-003-signals-and-systems-fall-2011/c4d391ded7fe876e51732f3bfc0e6bd9_N0CVIoVQkmc.pdf
+  video_transcript_file: /courses/6-003-signals-and-systems-fall-2011/c4d391ded7fe876e51732f3bfc0e6bd9_N0CVIoVQkmc.pdf
 video_metadata:
   youtube_id: N0CVIoVQkmc
 ---

@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: '[Sampling (PDF)](resources/mit6_003f11_lec21)'
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 21: Sampling'
 uid: db78e8d9-93e8-cb81-ea70-001b1b0a34a8
 video_files:
   archive_url: http://www.archive.org/download/MIT6.003F11/MIT6_003F11_lec21_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-003-signals-and-systems-fall-2011/28ec6f0e9640508d9e9768e0577b4b87_1El4znkRH0g.vtt
+  video_captions_file: /courses/6-003-signals-and-systems-fall-2011/28ec6f0e9640508d9e9768e0577b4b87_1El4znkRH0g.vtt
   video_thumbnail_file: https://img.youtube.com/vi/1El4znkRH0g/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-003-signals-and-systems-fall-2011/c148aa5e8549e31f8a9a7fbcbde7ddfa_1El4znkRH0g.pdf
+  video_transcript_file: /courses/6-003-signals-and-systems-fall-2011/c148aa5e8549e31f8a9a7fbcbde7ddfa_1El4znkRH0g.pdf
 video_metadata:
   youtube_id: 1El4znkRH0g
 ---

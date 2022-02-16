@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-003-signals-and-systems-fall-2011/d581337403d046f57e857c2057264f7c_HDYAbIA-DNY.pdf
+file: /media/courses/6-003-signals-and-systems-fall-2011/d581337403d046f57e857c2057264f7c_HDYAbIA-DNY.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: d5813374-03d0-46f5-7e85-7c2057264f7c

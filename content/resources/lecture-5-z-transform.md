@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: '[Z Transform (PDF)](resources/mit6_003f11_lec05)'
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 5: Z Transform'
 uid: 400326dd-bc2b-7b0d-f39a-d3a9eb7866cc
 video_files:
   archive_url: http://www.archive.org/download/MIT6.003F11/MIT6_003F11_lec05_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-003-signals-and-systems-fall-2011/7e47bf9c5d9d50df8d52cc915f22dffd_iI-ejO9hczw.vtt
+  video_captions_file: /courses/6-003-signals-and-systems-fall-2011/7e47bf9c5d9d50df8d52cc915f22dffd_iI-ejO9hczw.vtt
   video_thumbnail_file: https://img.youtube.com/vi/iI-ejO9hczw/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-003-signals-and-systems-fall-2011/1e9be9dbb105bc9928efa107b0204c15_iI-ejO9hczw.pdf
+  video_transcript_file: /courses/6-003-signals-and-systems-fall-2011/1e9be9dbb105bc9928efa107b0204c15_iI-ejO9hczw.pdf
 video_metadata:
   youtube_id: iI-ejO9hczw
 ---

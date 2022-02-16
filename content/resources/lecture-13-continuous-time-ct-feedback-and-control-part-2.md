@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: '[Continuous-Time (CT) Feedback and Control, Part 2 (PDF)](resources/mit6_003f11_lec13)'
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 13: Continuous-Time (CT) Feedback and Control, Part 2'
 uid: a4193532-08bc-b51c-6981-72dd97e56753
 video_files:
   archive_url: http://www.archive.org/download/MIT6.003F11/MIT6_003F11_lec13_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-003-signals-and-systems-fall-2011/ca727b30e05558b4b83bbbe338d49649_gxgV_oOG7Zc.vtt
+  video_captions_file: /courses/6-003-signals-and-systems-fall-2011/ca727b30e05558b4b83bbbe338d49649_gxgV_oOG7Zc.vtt
   video_thumbnail_file: https://img.youtube.com/vi/gxgV_oOG7Zc/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-003-signals-and-systems-fall-2011/17978607bd9e9c1d8adc909b838c693b_gxgV_oOG7Zc.pdf
+  video_transcript_file: /courses/6-003-signals-and-systems-fall-2011/17978607bd9e9c1d8adc909b838c693b_gxgV_oOG7Zc.pdf
 video_metadata:
   youtube_id: gxgV_oOG7Zc
 ---

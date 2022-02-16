@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: '[Convolution (PDF - 2.0MB)](resources/mit6_003f11_lec08)'
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
-title: "Lecture 8: Convolution\t\t\t\t"
+title: 'Lecture 8: Convolution    '
 uid: 8ebc62c8-c0f0-7649-8970-770f7c4e946f
 video_files:
   archive_url: http://www.archive.org/download/MIT6.003F11/MIT6_003F11_lec08_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-003-signals-and-systems-fall-2011/d15acd3c1f48534f81d5622db34db115_w1Z2FX8rQc0.vtt
+  video_captions_file: /courses/6-003-signals-and-systems-fall-2011/d15acd3c1f48534f81d5622db34db115_w1Z2FX8rQc0.vtt
   video_thumbnail_file: https://img.youtube.com/vi/w1Z2FX8rQc0/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-003-signals-and-systems-fall-2011/9da2f48cf2e15b9dab6dc259444c369b_w1Z2FX8rQc0.pdf
+  video_transcript_file: /courses/6-003-signals-and-systems-fall-2011/9da2f48cf2e15b9dab6dc259444c369b_w1Z2FX8rQc0.pdf
 video_metadata:
   youtube_id: w1Z2FX8rQc0
 ---
