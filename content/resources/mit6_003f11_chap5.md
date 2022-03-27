@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 998c6675-6fd3-dc4c-dcec-292568f6e2aa
 resourcetype: Document
 title: Discrete-time Signals and Systems
 uid: 844ad344-431f-53e4-5e09-24161bc3c7c9

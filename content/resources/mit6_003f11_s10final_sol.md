@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 042e449a-3718-58da-3786-6017891d48d8
 resourcetype: Document
 title: 6.003 Final Exam Solutions , Spring 2010
 uid: 37fde2bf-f62f-ede1-b831-5a45901428fc

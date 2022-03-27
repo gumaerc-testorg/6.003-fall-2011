@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 042e449a-3718-58da-3786-6017891d48d8
 resourcetype: Document
 title: 6.003 Final Exam Solutions, Fall 2009
 uid: 4cfb736b-f5e4-9959-777f-bb3b616fb2d8

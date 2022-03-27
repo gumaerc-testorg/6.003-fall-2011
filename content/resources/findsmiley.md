@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0809880b-cf05-0bfb-f22d-ac450701563c
 resourcetype: Image
 title: findsmiley.jpg
 uid: 83a28a07-c057-f42c-6d0d-47279e5b956c

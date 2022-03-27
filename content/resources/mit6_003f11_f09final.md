@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 042e449a-3718-58da-3786-6017891d48d8
 resourcetype: Document
 title: 6.003 Final Exam, Fall 2009
 uid: 6af64c16-0948-026a-525b-b02fad92d351

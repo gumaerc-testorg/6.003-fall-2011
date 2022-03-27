@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0809880b-cf05-0bfb-f22d-ac450701563c
 resourcetype: Other
 title: buildings.zip
 uid: a02cb68f-2042-d625-1562-1ba87587b61f

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 042e449a-3718-58da-3786-6017891d48d8
 resourcetype: Document
 title: 6.003 Quiz 2 Solutions, Fall 2011
 uid: ae6f417a-2310-e54f-4fce-ef3ac20ceeec
