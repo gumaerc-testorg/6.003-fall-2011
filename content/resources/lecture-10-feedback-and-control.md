@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Feedback and Control (PDF - 1.4MB)](resources/mit6_003f11_lec10)'
+optional_text: '[Feedback and Control (PDF - 1.4MB)](/courses/6-003-signals-and-systems-fall-2011/resources/mit6_003f11_lec10)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Instructor:** Russ Tedrake
 
 **Description:** Prof. Tedrake introduces the power and complexity of modern control systems, which use feedback to stabilize and compensate for delays and other errors. Examples are taken from his research into perching planes and other high-performance aircraft.
+
+
+

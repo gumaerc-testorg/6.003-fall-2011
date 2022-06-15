@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Convolution (PDF - 2.0MB)](resources/mit6_003f11_lec08)'
+optional_text: '[Convolution (PDF - 2.0MB)](/courses/6-003-signals-and-systems-fall-2011/resources/mit6_003f11_lec08)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Instructor:** Dennis Freeman
 
 **Description:** In linear time-invariant systems, breaking an input signal into individual time-shifted unit impulses allows the output to be expressed as the superposition of unit impulse responses. Convolution is the general method of calculating these output signals.
+
+
+

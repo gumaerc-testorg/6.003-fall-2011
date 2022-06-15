@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Continuous-Time (CT) Frequency Response and Bode Plot (PDF - 1.1MB)](resources/mit6_003f11_lec11)'
+optional_text: '[Continuous-Time (CT) Frequency Response and Bode Plot (PDF - 1.1MB)](/courses/6-003-signals-and-systems-fall-2011/resources/mit6_003f11_lec11)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Instructor:** Dennis Freeman
 
 **Description:** Bode plots are a simpler method of graphing the frequency response, using the poles and zeros of the system to construct asymptotes for each segment on a log-log plot. The Q factor affects the sharpness of peaks and drop-offs in the system.
+
+
+

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-003-signals-and-systems-fall-2011/3ca832a14f917e45a3f70614b2f81eee_t2hNMFoIv8w.pdf
+file: /courses/6-003-signals-and-systems-fall-2011/3ca832a14f917e45a3f70614b2f81eee_t2hNMFoIv8w.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

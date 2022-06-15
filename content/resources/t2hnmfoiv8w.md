@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-003-signals-and-systems-fall-2011/b82658041587a81747c6051b62a8af3b_t2hNMFoIv8w.srt
+file: /courses/6-003-signals-and-systems-fall-2011/b82658041587a81747c6051b62a8af3b_t2hNMFoIv8w.srt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

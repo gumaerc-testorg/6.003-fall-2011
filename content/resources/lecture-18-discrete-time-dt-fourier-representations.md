@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Discrete-Time (DT) Fourier Representations (PDF - 2.3MB)](resources/mit6_003f11_lec18)'
+optional_text: '[Discrete-Time (DT) Fourier Representations (PDF - 2.3MB)](/courses/6-003-signals-and-systems-fall-2011/resources/mit6_003f11_lec18)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Instructor:** Dennis Freeman
 
 **Description:** Continuing the comparison of continuous- and discrete-time signals, today's lecture discusses the DT Fourier transform, computation of Fourier series via the Fast Fourier Transform (FFT), and examples from digital image processing.
+
+
+

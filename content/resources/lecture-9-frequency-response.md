@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Lecture 9: Frequency Response (PDF - 1.6MB)](resources/mit6_003f11_lec09)'
+optional_text: '[Lecture 9: Frequency Response (PDF - 1.6MB)](/courses/6-003-signals-and-systems-fall-2011/resources/mit6_003f11_lec09)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Instructor:** Dennis Freeman
 
 **Description:** The response of a system to sinusoidal input gives valuable information about its behavior in the frequency domain, similar to convolution in the time domain. Eigenfunctions and vector plots are used to explore this frequency response.
+
+
+

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-003-signals-and-systems-fall-2011/3c7f80c59522ba1bf7a49291d884ad18_HDYAbIA-DNY.srt
+file: /courses/6-003-signals-and-systems-fall-2011/3c7f80c59522ba1bf7a49291d884ad18_HDYAbIA-DNY.srt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

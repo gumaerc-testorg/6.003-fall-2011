@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Discrete-Time (DT) Systems (PDF)](resources/mit6_003f11_lec02)'
+optional_text: '[Discrete-Time (DT) Systems (PDF)](/courses/6-003-signals-and-systems-fall-2011/resources/mit6_003f11_lec02)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Instructor:** Dennis Freeman
 
 **Description:** Discrete-time systems can be represented in several ways: difference equations, block diagrams, and operators. Each method requires a different analytical approach. Feedback loops in cyclic systems lead to convergent or divergent responses.
+
+
+

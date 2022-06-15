@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Laplace Transform (PDF)](resources/mit6_003f11_lec06)'
+optional_text: '[Laplace Transform (PDF)](/courses/6-003-signals-and-systems-fall-2011/resources/mit6_003f11_lec06)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Instructor:** Dennis Freeman
 
 **Description:** Building on concepts from the previous lecture, the Laplace transform is introduced as the continuous-time analogue of the Z transform. The lecture discusses the Laplace transform's definition, properties, applications, and inverse transform.
+
+
+

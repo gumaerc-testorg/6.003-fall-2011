@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Discrete-Time (DT) Frequency Representations (PDF)](resources/mit6_003f11_lec17)'
+optional_text: '[Discrete-Time (DT) Frequency Representations (PDF)](/courses/6-003-signals-and-systems-fall-2011/resources/mit6_003f11_lec17)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Instructor:** Dennis Freeman
 
 **Description:** As digital signal processing components have become cheaper, traditional design problems in audio and video systems have converted to discrete-time. This lecture compares system responses and Fourier representations in discrete- and continuous-time.
+
+
+

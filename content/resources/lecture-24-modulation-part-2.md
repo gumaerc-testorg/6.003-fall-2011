@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Modulation, Part 2 (PDF - 1.5MB)](resources/mit6_003f11_lec24)'
+optional_text: '[Modulation, Part 2 (PDF - 1.5MB)](/courses/6-003-signals-and-systems-fall-2011/resources/mit6_003f11_lec24)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Instructor:** Dennis Freeman
 
 **Description:** Continuing the previous discussion of AM in radio, Prof. Freeman analyzes phase and frequency modulated (PM/FM) signals, before presenting research showing improvement in optical microscopy via phase-modulated illumination.
+
+
+

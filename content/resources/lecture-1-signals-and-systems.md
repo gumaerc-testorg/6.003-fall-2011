@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Signals and Systems (PDF)](resources/mit6_003f11_lec01)'
+optional_text: '[Signals and Systems (PDF)](/courses/6-003-signals-and-systems-fall-2011/resources/mit6_003f11_lec01)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Instructor:** Dennis Freeman
 
 **Description:** This lecture introduces the administrative details of the course, and uses examples from several engineering fields to illustrate the central abstraction of 6.003: analysis and design of systems via their signal transform properties.
+
+
+

@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Discrete Approximation of Continuous-Time Systems (PDF)](resources/mit6_003f11_lec07)'
+optional_text: '[Discrete Approximation of Continuous-Time Systems (PDF)](/courses/6-003-signals-and-systems-fall-2011/resources/mit6_003f11_lec07)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Instructor:** Dennis Freeman
 
 **Description:** Having established representations and analytical methods for discrete-time and continuous-time systems, today's lecture uses the example of a leaky tank to show how Euler and trapezoidal approximations can convert a continuous system to a discrete one.
+
+
+

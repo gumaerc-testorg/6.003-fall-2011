@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Sampling (PDF)](resources/mit6_003f11_lec21)'
+optional_text: '[Sampling (PDF)](/courses/6-003-signals-and-systems-fall-2011/resources/mit6_003f11_lec21)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Instructor:** Dennis Freeman
 
 **Description:** Sampling produces a discrete-time (digital) signal from a continuous-time (physical) phenomenon. Anti-aliasing and reconstruction filters remove unnecessary frequencies while retaining enough information to reconstruct the original signal.
+
+
+
