@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: findsmiley.jpg
 uid: 83a28a07-c057-f42c-6d0d-47279e5b956c
 ---
 This is a supporting file of findsmiley.
-

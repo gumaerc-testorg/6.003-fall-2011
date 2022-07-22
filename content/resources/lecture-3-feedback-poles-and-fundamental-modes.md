@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Feedback, Poles, and Fundamental Modes (PDF - 1.0MB)](/courses/6-003-signals-and-systems-fall-2011/resources/mit6_003f11_lec03)'
@@ -28,6 +29,4 @@ video_metadata:
 **Instructor:** Dennis Freeman
 
 **Description:** To analyze complicated systems of adders, delays, and gains, factor their polynomial expression into simpler components using the poles. These fundamental modes combine to produce the unit response of a system.
-
-
 

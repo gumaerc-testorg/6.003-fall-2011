@@ -6,6 +6,7 @@ file: /courses/6-003-signals-and-systems-fall-2011/c8641f435f1176585ea4879f06ccf
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Discrete-time Signals and Systems
 uid: c8641f43-5f11-7658-5ea4-879f06ccfc78
 ---
 This resource contains information on chapter 2 of book signals and systems; difference equations and modularity.
-

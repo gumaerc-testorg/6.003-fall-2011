@@ -5,6 +5,7 @@ file: /courses/6-003-signals-and-systems-fall-2011/a02cb68f2042d62515621ba87587b
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: buildings.zip
 uid: a02cb68f-2042-d625-1562-1ba87587b61f
 ---
 This resource is a supporting zip file that contains 6 jpg files.
-

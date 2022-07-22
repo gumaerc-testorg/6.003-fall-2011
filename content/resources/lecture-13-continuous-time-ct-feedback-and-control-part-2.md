@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Continuous-Time (CT) Feedback and Control, Part 2 (PDF)](/courses/6-003-signals-and-systems-fall-2011/resources/mit6_003f11_lec13)'
@@ -28,6 +29,4 @@ video_metadata:
 **Instructor:** Dennis Freeman
 
 **Description:** Additional examples today illustrate the use of feedback to reduce sensitivity to variable component parameters and crossover distortion in audio systems, and to control two unstable systems (magnetic levitation, inverted pendulum).
-
-
 

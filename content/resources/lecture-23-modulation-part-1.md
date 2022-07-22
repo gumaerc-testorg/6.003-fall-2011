@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Modulation, Part 1 (PDF)](/courses/6-003-signals-and-systems-fall-2011/resources/mit6_003f11_lec23)'
@@ -28,6 +29,4 @@ video_metadata:
 **Instructor:** Dennis Freeman
 
 **Description:** Efficient signal transmission and reception requires wavelengths matching the size of the antenna; for speech, this requires frequencies around the GHz range. Broadcast radio developed AM and FM to produce accurate reception of multiplexed signals.
-
-
 

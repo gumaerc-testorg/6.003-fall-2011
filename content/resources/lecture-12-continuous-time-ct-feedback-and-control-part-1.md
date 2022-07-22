@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Continuous-Time (CT) Feedback and Control, Part 1 (PDF)](/courses/6-003-signals-and-systems-fall-2011/resources/mit6_003f11_lec12)'
@@ -28,6 +29,4 @@ video_metadata:
 **Instructor:** Dennis Freeman
 
 **Description:** Today's lecture continues the discussion of control systems by demonstrating how feedback loops can add speed and bandwidth to the LM741 op-amp, and allow better control of a robot arm's angular position.
-
-
 

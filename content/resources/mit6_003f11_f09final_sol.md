@@ -5,6 +5,7 @@ file: /courses/6-003-signals-and-systems-fall-2011/4cfb736bf5e49959777fbb3b616fb
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 6.003 Final Exam Solutions, Fall 2009
 uid: 4cfb736b-f5e4-9959-777f-bb3b616fb2d8
 ---
 This file contains information regarding fall 2009 final exam solutions.
-

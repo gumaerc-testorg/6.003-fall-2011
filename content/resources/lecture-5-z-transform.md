@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Z Transform (PDF)](/courses/6-003-signals-and-systems-fall-2011/resources/mit6_003f11_lec05)'
@@ -28,6 +29,4 @@ video_metadata:
 **Instructor:** Dennis Freeman
 
 **Description:** After reviewing concepts in discrete-time systems, the Z transform is introduced, connecting the unit sample response h\[n\] and the system function H(z). The lecture covers the Z transform's definition, properties, examples, and inverse transform.
-
-
 

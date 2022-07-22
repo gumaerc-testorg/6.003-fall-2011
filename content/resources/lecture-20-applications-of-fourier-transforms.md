@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ' Lecture Slides'
 optional_text: '[Applications of Fourier Transforms (PDF)](/courses/6-003-signals-and-systems-fall-2011/resources/mit6_003f11_lec20)'
@@ -28,6 +29,4 @@ video_metadata:
 **Instructor:** Dennis Freeman
 
 **Description:** Three examples of Fourier transforms in action are given: removing noise from an electrocardiogram signal, using laser diffraction to calculate the groove spacing on CDs and DVDs, and determining the structure of DNA via x-ray crystallography.
-
-
 

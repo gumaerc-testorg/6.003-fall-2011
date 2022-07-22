@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Continuous-Time (CT) Systems (PDF)](/courses/6-003-signals-and-systems-fall-2011/resources/mit6_003f11_lec04)'
@@ -28,6 +29,4 @@ video_metadata:
 **Instructor:** Dennis Freeman
 
 **Description:** Drawing analogies with previous concepts in discrete-time systems, this lecture discusses the block diagrams, polynomial expressions, poles, convergence regions, and fundamental modes of continuous-time systems.
-
-
 

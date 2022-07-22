@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Relations Among Fourier Representations (PDF)](/courses/6-003-signals-and-systems-fall-2011/resources/mit6_003f11_lec19)'
@@ -28,6 +29,4 @@ video_metadata:
 **Instructor:** Dennis Freeman
 
 **Description:** Today's lecture solidifies the connections between continuous- and discrete-time Fourier series and transforms, converting between the time and frequency domains with familiar tools such as convolution, periodic extension, and sampling.
-
-
 

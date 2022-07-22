@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: zebra.jpg
 uid: 6b3ca4c6-0667-dec4-674f-73b52c70d518
 ---
 This resource is a supporting file contains  information regarding zebra jpg file.
-

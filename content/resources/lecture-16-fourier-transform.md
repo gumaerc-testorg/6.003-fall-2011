@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Fourier Transform (PDF)](/courses/6-003-signals-and-systems-fall-2011/resources/mit6_003f11_lec16)'
@@ -28,6 +29,4 @@ video_metadata:
 **Instructor:** Dennis Freeman
 
 **Description:** The concept of the Fourier series can be applied to aperiodic functions by treating it as a periodic function with period T = infinity. This new transform has some key similarities and differences with the Laplace transform, its properties, and domains.
-
-
 

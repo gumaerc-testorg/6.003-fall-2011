@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Fourier Representations (PDF)](/courses/6-003-signals-and-systems-fall-2011/resources/mit6_003f11_lec14)'
@@ -28,6 +29,4 @@ video_metadata:
 **Instructor:** Dennis Freeman
 
 **Description:** In the next half of the course, periodic functions are represented as sums of harmonic functions, via Fourier decomposition. Linear time-invariant systems amplify and phase-shift these inputs to produce filtered output, an important new concept.
-
-
 

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Sampling and Quantization (PDF - 3.3MB)](/courses/6-003-signals-and-systems-fall-2011/resources/mit6_003f11_lec22)'
@@ -28,6 +29,4 @@ video_metadata:
 **Instructor:** Dennis Freeman
 
 **Description:** Digital audio, images, video, and communication signals use quantization to create discrete representations of continuous phenomena. Efficient transmission and reconstruction uses techniques such as dithering, progressive refinement, and the JPEG encoding.
-
-
 
