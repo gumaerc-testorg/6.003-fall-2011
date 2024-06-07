@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-003-signals-and-systems-fall-2011/e6e3248d69ee59c3b799f4a2c621402f_gwa-Rh0u6bs.vtt
+file_size: 63362
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
