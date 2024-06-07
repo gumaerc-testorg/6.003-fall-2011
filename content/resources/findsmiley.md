@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a supporting file of findsmiley.
 file: /courses/6-003-signals-and-systems-fall-2011/83a28a07c057f42c6d0d47279e5b956c_findsmiley.jpg
+file_size: 882841
 file_type: image/jpeg
 image_metadata:
   caption: ''

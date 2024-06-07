@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding fall 2009 final exam solutions.
 file: /courses/6-003-signals-and-systems-fall-2011/4cfb736bf5e49959777fbb3b616fb2d8_MIT6_003F11_F09final_sol.pdf
+file_size: 378030
 file_type: application/pdf
 learning_resource_types:
 - Exams

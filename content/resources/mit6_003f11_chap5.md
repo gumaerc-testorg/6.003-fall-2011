@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on chapter 5 of book signals and systems;
   repeated roots.
 file: /courses/6-003-signals-and-systems-fall-2011/844ad344431f53e45e0924161bc3c7c9_MIT6_003F11_chap5.pdf
+file_size: 138386
 file_type: application/pdf
 learning_resource_types:
 - Readings
