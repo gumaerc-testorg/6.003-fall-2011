@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the first page of the book discrete-time signals
   and systems along with the index.
 file: /courses/6-003-signals-and-systems-fall-2011/e74a9c5238d006ad45fdc4c83acfb479_MIT6_003F11_front.pdf
+file_size: 111128
 file_type: application/pdf
 learning_resource_types:
 - Readings
