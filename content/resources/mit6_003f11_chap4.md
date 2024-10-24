@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on chapter 4 of book signals and systems;
   modes.
-file: /courses/6-003-signals-and-systems-fall-2011/c0f0cc873d5004f0839155abe72e27c3_MIT6_003F11_chap4.pdf
+file: /ol-ocw-studio-app/courses/6-003-signals-and-systems-fall-2011/c0f0cc873d5004f0839155abe72e27c3_MIT6_003F11_chap4.pdf
 file_size: 155848
 file_type: application/pdf
 learning_resource_types:

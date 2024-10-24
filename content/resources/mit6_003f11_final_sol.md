@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding fall 2011 final exam solutions.
-file: /courses/6-003-signals-and-systems-fall-2011/aa172db862363cd58b2710944a926f5a_MIT6_003F11_final_sol.pdf
+file: /ol-ocw-studio-app/courses/6-003-signals-and-systems-fall-2011/aa172db862363cd58b2710944a926f5a_MIT6_003F11_final_sol.pdf
 file_size: 541564
 file_type: application/pdf
 learning_resource_types:
