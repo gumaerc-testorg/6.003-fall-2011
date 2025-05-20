@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information on chapter 8 of book signals and
   systems; proportional and derivative control. '
-file: /ol-ocw-studio-app/courses/6-003-signals-and-systems-fall-2011/01c212ea9f63c8d46ed90aeaea5f051d_MIT6_003F11_chap8.pdf
+file: /courses/6-003-signals-and-systems-fall-2011/01c212ea9f63c8d46ed90aeaea5f051d_MIT6_003F11_chap8.pdf
 file_size: 144331
 file_type: application/pdf
 learning_resource_types:

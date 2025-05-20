@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the bibliographical references to the course
   reading. '
-file: /ol-ocw-studio-app/courses/6-003-signals-and-systems-fall-2011/0796335e73242b2fe1ab999a2a009113_MIT6_003F11_back.pdf
+file: /courses/6-003-signals-and-systems-fall-2011/0796335e73242b2fe1ab999a2a009113_MIT6_003F11_back.pdf
 file_size: 171752
 file_type: application/pdf
 learning_resource_types:

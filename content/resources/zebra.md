@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is a supporting file contains  information regarding zebra
   jpg file.
-file: /ol-ocw-studio-app/courses/6-003-signals-and-systems-fall-2011/6b3ca4c60667dec4674f73b52c70d518_zebra.jpg
+file: /courses/6-003-signals-and-systems-fall-2011/6b3ca4c60667dec4674f73b52c70d518_zebra.jpg
 file_size: 24175
 file_type: image/jpeg
 image_metadata:
