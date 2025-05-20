@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting zip file that contains 6 jpg files.
-file: /ol-ocw-studio-app/courses/6-003-signals-and-systems-fall-2011/a02cb68f2042d62515621ba87587b61f_buildings.zip
+file: /courses/6-003-signals-and-systems-fall-2011/a02cb68f2042d62515621ba87587b61f_buildings.zip
 file_size: 473552
 file_type: application/zip
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on chapter 2 of book signals and systems;
   difference equations and modularity.
-file: /ol-ocw-studio-app/courses/6-003-signals-and-systems-fall-2011/c8641f435f1176585ea4879f06ccfc78_MIT6_003F11_chap2.pdf
+file: /courses/6-003-signals-and-systems-fall-2011/c8641f435f1176585ea4879f06ccfc78_MIT6_003F11_chap2.pdf
 file_size: 163685
 file_type: application/pdf
 learning_resource_types:
