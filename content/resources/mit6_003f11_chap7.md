@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on chapter 7 of book signals and systems;
   control.
-file: /courses/6-003-signals-and-systems-fall-2011/3e3b1a649250e8d0b0043c83da667bd6_MIT6_003F11_chap7.pdf
+file: /ol-ocw-studio-app/courses/6-003-signals-and-systems-fall-2011/3e3b1a649250e8d0b0043c83da667bd6_MIT6_003F11_chap7.pdf
 file_size: 163091
 file_type: application/pdf
 learning_resource_types:
