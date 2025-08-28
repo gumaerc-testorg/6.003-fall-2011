@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-003-signals-and-systems-fall-2011/83c06055a4949ea8065de609ce66720d_pqkYqU11ETA.pdf
+file: /ol-ocw-studio-app/courses/6-003-signals-and-systems-fall-2011/83c06055a4949ea8065de609ce66720d_pqkYqU11ETA.pdf
 file_size: 52359
 file_type: application/pdf
 learning_resource_types: []

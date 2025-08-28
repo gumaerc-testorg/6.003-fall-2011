@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on chapter 6 of book signals and systems;
   the perfect (sine) wave.
-file: /courses/6-003-signals-and-systems-fall-2011/0cda880cbbf1051a073c74d23448b651_MIT6_003F11_chap6.pdf
+file: /ol-ocw-studio-app/courses/6-003-signals-and-systems-fall-2011/0cda880cbbf1051a073c74d23448b651_MIT6_003F11_chap6.pdf
 file_size: 153784
 file_type: application/pdf
 learning_resource_types:
